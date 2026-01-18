@@ -1,0 +1,14 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# virtual environments
+.venv/
+venv/
+
+# secrets (never commit API keys)
+.env
+
+# editor / OS noise
+.vscode/
+.DS_Store
